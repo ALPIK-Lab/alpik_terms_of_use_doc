@@ -2,7 +2,7 @@
 
 Last updated: _28th of september, 2024_
 
-This Terms of Use Agreement ("Agreement") is entered into by and between DATALPS SAS, a French company with its registered office at [Insert Address] ("DATALPS" or "we" or "us"), and you, the user ("you" or "your"). This Agreement governs your use of the ALPIK SaaS solution, including but not limited to access to the ALPIK Pro web portal, the ALPIK LoraWAN Network, tracking devices, safety beacons, IoT sensors, smart energy actuators, and any API provided by DATALPS for the ALPIK solution.
+This Terms of Use Agreement ("Agreement") is entered into by and between DATALPS SAS, a French company with its registered office at 6c, chemin des Cavaliers, 73100 Tresserve ("DATALPS" or "we" or "us"), and you, the user ("you" or "your"). This Agreement governs your use of the ALPIK SaaS solution, including but not limited to access to the ALPIK Pro web portal, the ALPIK LoraWAN Network, tracking devices, safety beacons, IoT sensors, smart energy actuators, and any API provided by DATALPS for the ALPIK solution.
 
 **1. Acceptance**
 
